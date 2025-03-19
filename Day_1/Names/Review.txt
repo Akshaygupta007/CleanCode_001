@@ -1,0 +1,25 @@
+1
+Variable name is not meaningful, it should be elapsedTimeInDays
+ 
+2
+Variable name dataFromDb can be more specific to listOfEmployees or employeeList
+ 
+3
+Prefix are not required for the variables, it can be counter, fullName and modifiedDatwe
+ 
+ 
+4
+public bool IsShopOpen(string pDay, int pAmount)
+{
+    // some logic
+}
+argument names -> prefix not required
+
+5
+Variables names inconsistent
+
+6
+need to define proper variable name
+
+7 
+variables name not related to function name
