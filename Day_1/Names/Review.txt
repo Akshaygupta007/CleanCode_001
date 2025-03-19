@@ -16,10 +16,10 @@ public bool IsShopOpen(string pDay, int pAmount)
 argument names -> prefix not required
 
 5
-Variables names inconsistent
-
+Should be consistent and follow one rule only (camel casing, snake casing, etc.)
+ 
 6
-need to define proper variable name
+Variable names should be more descriptive, sWorkDate -> startWorkingDate, modTime -> modificationTime
 
 7 
-variables name not related to function name
+should follow camel case
